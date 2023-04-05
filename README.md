@@ -10,9 +10,9 @@ const TommStark = {
   leadership: ["Project Management", "Mentoring", "Strategic Planning"],
 };
 ```
-🔭 I'm currently working as a Senior Frontend Developer at a leading tech company, where I create user-centric web applications using React and other cutting-edge technologies.
+🔭 I'm currently working as a Senior Frontend Developer at [a leading tech company in Chile](https://www.tenpo.cl/), one of the top digital banks in the country. I primarily use React Native to develop user-centric mobile applications and contribute to the company's ongoing innovation in the fintech space. My expertise in cutting-edge technologies and ability to quickly adapt to new challenges have allowed me to lead projects that positively impact thousands of users.
 
-🌱 I have over 6 years of experience in FrontEnd development, and I'm passionate about building responsive and performant web and mobile applications that delight users.
+🌱 I have over 7 years of experience in FrontEnd development, and I'm passionate about building responsive and performant web and mobile applications that delight users.
 
 🏢 In my previous role, I contributed to the development of an innovative real-time collaboration platform that leveraged the power of Node.js, sockets, and MongoDB.
 
